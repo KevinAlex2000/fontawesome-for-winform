@@ -1,0 +1,36 @@
+C:\Users\KevinAlexander\documents\visual studio 2015\Projects\dashboard\fontawesome\bin\Debug\fontawesome.dll
+C:\Users\KevinAlexander\documents\visual studio 2015\Projects\dashboard\fontawesome\bin\Debug\fontawesome.pdb
+C:\Users\KevinAlexander\documents\visual studio 2015\Projects\dashboard\fontawesome\bin\Debug\Fizzler.dll
+C:\Users\KevinAlexander\documents\visual studio 2015\Projects\dashboard\fontawesome\bin\Debug\Svg.dll
+C:\Users\KevinAlexander\documents\visual studio 2015\Projects\dashboard\fontawesome\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KevinAlexander\documents\visual studio 2015\Projects\dashboard\fontawesome\bin\Debug\Svg.xml
+C:\Users\KevinAlexander\documents\visual studio 2015\Projects\dashboard\fontawesome\obj\Debug\fontawesome.csprojResolveAssemblyReference.cache
+C:\Users\KevinAlexander\documents\visual studio 2015\Projects\dashboard\fontawesome\obj\Debug\fontawesome.dll
+C:\Users\KevinAlexander\documents\visual studio 2015\Projects\dashboard\fontawesome\obj\Debug\fontawesome.pdb
+C:\Users\KevinAlexander\Desktop\Archivos\Proyectos\dashboard\fontawesome\bin\Debug\fontawesome.dll
+C:\Users\KevinAlexander\Desktop\Archivos\Proyectos\dashboard\fontawesome\bin\Debug\fontawesome.pdb
+C:\Users\KevinAlexander\Desktop\Archivos\Proyectos\dashboard\fontawesome\bin\Debug\Fizzler.dll
+C:\Users\KevinAlexander\Desktop\Archivos\Proyectos\dashboard\fontawesome\bin\Debug\Svg.dll
+C:\Users\KevinAlexander\Desktop\Archivos\Proyectos\dashboard\fontawesome\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KevinAlexander\Desktop\Archivos\Proyectos\dashboard\fontawesome\bin\Debug\Svg.xml
+C:\Users\KevinAlexander\Desktop\Archivos\Proyectos\dashboard\fontawesome\obj\Debug\fontawesome.dll
+C:\Users\KevinAlexander\Desktop\Archivos\Proyectos\dashboard\fontawesome\obj\Debug\fontawesome.pdb
+C:\Users\KevinAlexander\Desktop\Archivos\Proyectos\dashboard\fontawesome\obj\Debug\fontawesome.csprojResolveAssemblyReference.cache
+C:\Users\Equipo\Desktop\Assets\Proyectos\dashboard\fontawesome\bin\Debug\fontawesome.dll
+C:\Users\Equipo\Desktop\Assets\Proyectos\dashboard\fontawesome\bin\Debug\fontawesome.pdb
+C:\Users\Equipo\Desktop\Assets\Proyectos\dashboard\fontawesome\bin\Debug\Fizzler.dll
+C:\Users\Equipo\Desktop\Assets\Proyectos\dashboard\fontawesome\bin\Debug\Svg.dll
+C:\Users\Equipo\Desktop\Assets\Proyectos\dashboard\fontawesome\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Equipo\Desktop\Assets\Proyectos\dashboard\fontawesome\bin\Debug\Svg.xml
+C:\Users\Equipo\Desktop\Assets\Proyectos\dashboard\fontawesome\obj\Debug\fontawesome.csprojResolveAssemblyReference.cache
+C:\Users\Equipo\Desktop\Assets\Proyectos\dashboard\fontawesome\obj\Debug\fontawesome.dll
+C:\Users\Equipo\Desktop\Assets\Proyectos\dashboard\fontawesome\obj\Debug\fontawesome.pdb
+C:\Me\Proyectos\Escritorio\dashboard\fontawesome\bin\Debug\fontawesome.dll
+C:\Me\Proyectos\Escritorio\dashboard\fontawesome\bin\Debug\fontawesome.pdb
+C:\Me\Proyectos\Escritorio\dashboard\fontawesome\bin\Debug\Fizzler.dll
+C:\Me\Proyectos\Escritorio\dashboard\fontawesome\bin\Debug\Svg.dll
+C:\Me\Proyectos\Escritorio\dashboard\fontawesome\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Me\Proyectos\Escritorio\dashboard\fontawesome\bin\Debug\Svg.xml
+C:\Me\Proyectos\Escritorio\dashboard\fontawesome\obj\Debug\fontawesome.csprojResolveAssemblyReference.cache
+C:\Me\Proyectos\Escritorio\dashboard\fontawesome\obj\Debug\fontawesome.dll
+C:\Me\Proyectos\Escritorio\dashboard\fontawesome\obj\Debug\fontawesome.pdb
